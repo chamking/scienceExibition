@@ -4,25 +4,28 @@ body, div, h1, h2, h3, span, p {
 }
 
 html {
-	height:100%;
+	height: 100%;
+	overflow: hidden;
 }
 
 body {
-	overflow: hidden;
-	margin:0 auto;
 	height: 100%;
-	white-space: nowrap;
+	overflow: hidden;
+	margin: 0;
 }
 
 .main-backgronud{
 	position: absolute;
 	display: block;
 	background-color: #BBB;
+	background-attachment:fixed;
+	background-size:cover;
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
 	height: 100%;
 	width: 100%;
 	left: 0px;
 	top: 0px;
-	margin: 0 auto;
 	overflow: hidden;
 }
 
@@ -34,10 +37,10 @@ body {
 .main-exhibition{
 	position: absolute;
 	display: block;
-	height: 88%;
-	width: 88%;
-	left: 6.8%;
-	top: 13.8%;
+	height: auto;
+	width: 89%;
+	left: 6%;
+	top: 16%;
 	right: auto;
 	bottom: auto;
 }
@@ -45,10 +48,10 @@ body {
 .main-exhibition-title{
 	position: absolute;
 	display: block;
-	height: 47%;
-	width: 47%;
-	left: 26.5%;
-	top: 6%;
+	height: 36%;
+	width: 36%;
+	left: 32%;
+	top: 4%;
 	right: auto;
 	bottom: auto;
 }
@@ -57,9 +60,9 @@ body {
 	position: absolute;
 	display: block;
 	height: auto;
-	width: 43%;
-	left: 28.6%;
-	top: 82.6%;
+	width: 52%;
+	left: 24%;
+	top: 80.5%;
 	right: auto;
 	bottom: auto;
 }
@@ -67,10 +70,10 @@ body {
 .main-exhibition-buttonVideo {
 	position: absolute;
 	display: block;
-	height: 6.04%;
-	width: 6.04%;
-	left: 44.4%;
-	top: 78.9%;
+	height: 7.26%;
+	width: 7.26%;
+	left: 45%;
+	top: 77%;
 	right: auto;
 	bottom: auto; 
 }
@@ -78,10 +81,10 @@ body {
 .main-exhibition-buttonPano {
 	position: absolute;
 	display: block;
-	height: 10%;
-	width: 10%;
-	left: 44.4%;
-	top: 78.9%;
+	height: 12%;
+	width: 12%;
+	left: 45%;
+	top: 77%;
 	right: auto;
 	bottom: auto; 
 }
@@ -89,98 +92,220 @@ body {
 .main-exhibition-erweima{
 	position: absolute;
 	display: block;
-	height: 17%;
-	width: 17%;
-	bottom: 9.5%;
+	height: auto;
+	width: 20%;
+	bottom: auto;
 	left: 0%;
 	right: auto;
-	top: auto;
+	top: 76%;
 	opacity: 1;
 }
 
 .main-exhibition-iconHere{
 	position: absolute;
 	display: block;
-	width: 10%;
+	width: 8%;
 	height: auto;
 	left: 20%;
-	top: 22%;
+	top: 26%;
 	opacity: 0.9;
 }
 
 .main-exhibition-icon01{
 	position: absolute;
 	display: block;
-	width: 14%;
+	width: 13%;
 	height: auto;
-	left: 75%;
-	top: 40%;
+	left: 85%;
+	top: 45%;
 	opacity: 0.9;
 }
 
 .main-exhibition-icon02{
 	position: absolute;
 	display: block;
-	width: 14%;
+	width: 13%;
 	height: auto;
-	left: 14%;
-	top: 43%;
+	left: 5%;
+	top: 36%;
 	opacity: 0.9;
 }
 
 .main-exhibition-icon03{
 	position: absolute;
 	display: block;
-	width: 14%;
+	width: 13%;
 	height: auto;
-	left: 37%;
-	top: 29%;
+	left: 33%;
+	top: 32%;
 	opacity: 0.9;
 }
 
 .main-exhibition-icon04{
 	position: absolute;
 	display: block;
-	width: 14%;
+	width: 13%;
 	height: auto;
-	left: 32%;
-	top: 13%;
+	left: 20%;
+	top: 12%;
 	opacity: 0.9;
 }
 
-.main-exhibition-leftArrow {
-    display: block;
-    margin: 0px;
-    height: 80px;
-    width: 80px;
-    position: absolute;
-    left: auto;
-    top: 42%;
-    right: 1%;
-    bottom: auto;
-    opacity: 0.9;
+.main-exhibition-icon05{
+	position: absolute;
+	display: block;
+	width: 13%;
+	height: auto;
+	left: 68%;
+	top: 65%;
+	opacity: 0.9;
+}
+
+.main-exhibition-icon06{
+	position: absolute;
+	display: block;
+	width: 13%;
+	height: auto;
+	left: 0%;
+	top: 62%;
+	opacity: 0.9;
+}
+
+.main-exhibition-icon01 span{
+	display: none;
+	text-decoration: none;
+}
+.main-exhibition-icon01:hover span{
+	position: absolute;
+	display: block;
+	/*background: url(images/FINAL01/FINAL01_iconHere.png) no-repeat;*/
+	width: 100%;
+	height: auto;
+	left: -70%;
+	top: -170%;
+	opacity: 0.9;
+}
+
+.main-exhibition-icon02 span{
+	display: none;
+	text-decoration: none;
+}
+.main-exhibition-icon02:hover span{
+	position: absolute;
+	display: block;
+	/*background: url(images/FINAL01/FINAL01_iconHere.png) no-repeat;*/
+	width: 100%;
+	height: auto;
+	left: 0%;
+	top: -100%;
+	opacity: 0.9;
+}
+
+.main-exhibition-icon03 span{
+	display: none;
+	text-decoration: none;
+}
+.main-exhibition-icon03:hover span{
+	position: absolute;
+	display: block;
+	/*background: url(images/FINAL01/FINAL01_iconHere.png) no-repeat;*/
+	width: 100%;
+	height: auto;
+	left: 0%;
+	top: -100%;
+	opacity: 0.9;
+}
+
+.main-exhibition-icon04 span{
+	display: none;
+	text-decoration: none;
+}
+.main-exhibition-icon04:hover span{
+	position: absolute;
+	display: block;
+	/*background: url(images/FINAL01/FINAL01_iconHere.png) no-repeat;*/
+	width: 100%;
+	height: auto;
+	left: 0%;
+	top: -100%;
+	opacity: 0.9;
+}
+
+.main-exhibition-icon05 span{
+	display: none;
+	text-decoration: none;
+}
+.main-exhibition-icon05:hover span{
+	position: absolute;
+	display: block;
+	/*background: url(images/FINAL01/FINAL01_iconHere.png) no-repeat;*/
+	width: 100%;
+	height: auto;
+	left: 0%;
+	top: -100%;
+	opacity: 0.9;
+}
+
+.main-exhibition-icon06 span{
+	display: none;
+	text-decoration: none;
+}
+.main-exhibition-icon06:hover span{
+	position: absolute;
+	display: block;
+	/*background: url(images/FINAL01/FINAL01_iconHere.png) no-repeat;*/
+	width: 100%;
+	height: auto;
+	left: 0%;
+	top: -100%;
+	opacity: 0.9;
 }
 
 .main-exhibition-rightArrow {
     display: block;
     margin: 0px;
-    height: 80px;
-    width: 80px;
+    height: 6.5%;
+    width: 6.5%;
     position: absolute;
-    left: 1%;
-    top: 42%;
+    left: auto;
+    top: 36%;
+    right: -1%;
+    bottom: auto;
+    opacity: 0.9;
+}
+
+.main-exhibition-leftArrow {
+    display: block;
+    margin: 0px;
+    height: 6.5%;
+    width: 6.5%;
+    position: absolute;
+    left: 3%;
+    top: 36%;
     right: auto;
     bottom: auto;
     opacity: 0.9;
 }
 
+.view-exhibition-title{
+	position: absolute;
+	display: block;
+	height: 46%;
+	width: 46%;
+	left: 27%;
+	top: 6%;
+	right: auto;
+	bottom: auto;
+}
+
+
 .view-exhibition-button{
     position: absolute;
 	display: block;
-	height: 10%;
-	width: 10%;
-	left: 45%;
-	top: 76.5%;
+	height: 12.6%;
+	width: 12.6%;
+	left: 44%;
+	top: 77.8%;
 	right: auto;
 	bottom: auto;
 }
@@ -188,10 +313,10 @@ body {
 .view-exhibition-picFrame{
 	position: absolute;
 	display: block;
-	height: 71%;
-	width: 71%;
-	left: 16%;
-	top: 10.5%;
+	height: auto;
+	width: 76%;
+	left: 13%;
+	top: 12%;
 	opacity: 0.95;
 	margin: 0 auto;
 }
@@ -199,9 +324,9 @@ body {
 .view-exhibition-panorama{
 	position: absolute;
 	display: block;
-	height: 70%;
-	width: 70%;
-	left: 17%;
+	height: auto;
+	width: 80%;
+	left: 13%;
 	top: 13%;
 	margin: 0 auto;
 }
@@ -210,10 +335,10 @@ body {
 	position: absolute;
 	display: block;
 	height: auto;
-	width: 97%;
-	left: 1.5%;
+	width: 99%;
+	left: 1%;
 	bottom: auto;
-	top: 87.2%;
+	top: 88%;
 	right: auto;
 	margin: 0 auto;
 
@@ -269,7 +394,10 @@ body {
 	display: block;
 	height: 100%;
 	width: 100%;
-	left: 5%;
-	top: 2%;
+	left: 6%;
+	top: 3.3%;
 	margin: 0 auto;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
 }
