@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="pano2vr_player.js"></script>
+<script type="text/javascript" src="jquery-1.8.3.js"></script>
+<link rel="stylesheet" href="myCSS.css">
+
+<script type="text/javascript">
+			function hideUrlBar() {
+</script>
+
+<title>Exhibition Area</title>
+
+</head>
+
+<body>
+<div data-role="page" id="page5">
+<div data-role="content">
+	<div class="main-background">
+		<img src="images/FINAL02/FINAL02_background.png" class="strech">
+		<div class="main-exhibition-title"><img src="images/FINAL01/FINAL01_title.png" width="100%"></div>
+		<div class="view-exhibition-button">
+			<a href="mainExhibition.html">
+				<img src="images/FINAL02/FINAL02_Button.png" width="100%">
+			</a>
+		</div>
+
+		<ul class="view-exhibition-picSlider">
+			<li class="view-exhibition-picSlider-01"><img src="images/FINAL02/FINAL02_pic1.png" width="100%"></li>
+			<li class="view-exhibition-picSlider-02"><img src="images/FINAL02/FINAL02_pic2.png" width="100%"></li>
+			<li class="view-exhibition-picSlider-03"><img src="images/FINAL02/FINAL02_pic3.png" width="100%"></li>
+			<li class="view-exhibition-picSlider-04"><img src="images/FINAL02/FINAL02_pic4.png" width="100%"></li>
+			<li class="view-exhibition-picSlider-05"><img src="images/FINAL02/FINAL02_pic5.png" width="100%"></li>
+		</ul>
+        <div class="view-exhibition-picFrame">
+            <img src="images/FINAL02/FINAL02_pic2Frame.png" width="100%">
+            <div class="containerCSS" >
+                <h1></h1>
+                <br>
+                <script type="text/javascript" src="pano2vr_player.js">
+                </script>
+                <div id="container" style="width:85%;height:68%" >
+                    This content requires HTML5/CSS3, WebGL, or Adobe Flash Player Version 9 or higher.
+                </div>
+                <script type="text/javascript">
+
+
+                    // create the panorama player with the container
+                    pano=new pano2vrPlayer("container");
+                    pano.readConfigUrl("IMG_1675 Panorama_out.xml");
+                    // hide the URL bar on the iPhone
+                    hideUrlBar();
+                </script>
+                <noscript>
+                    <p><b>Please enable Javascript!</b></p>
+                </noscript>
+            </div>
+        </div>
+	</div>
+</div>
+</div>
+
+
+</body>
+</html>

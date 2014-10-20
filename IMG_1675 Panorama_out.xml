@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="苏州河的变迁剧场" target="" pan="121.481" skinid="" url="" id="F02S01-P01" tilt="1.37638"/>
+      <hotspot title="信息时代入口" target="" pan="97.49209999999999" skinid="" url="{node5}" id="F02S01-S02" tilt="0.956551"/>
+      <hotspot title="新能源车" target="" pan="-2.17381" skinid="" url="" id="F02S01-P02" tilt="-11.6148"/>
+      <hotspot title="生态循环系统" target="" pan="-152.031" skinid="" url="" id="F02S01-P03" tilt="-3.51431"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/IMG_1675 Panorama_o_0.jpg" prev5url="images/IMG_1675 Panorama_o_preview_5.jpg" prev4url="images/IMG_1675 Panorama_o_preview_4.jpg" prev3url="images/IMG_1675 Panorama_o_preview_3.jpg" prev2url="images/IMG_1675 Panorama_o_preview_2.jpg" prev1url="images/IMG_1675 Panorama_o_preview_1.jpg" prev0url="images/IMG_1675 Panorama_o_preview_0.jpg" tile5url="images/IMG_1675 Panorama_o_5.jpg" tilesize="1570" tile4url="images/IMG_1675 Panorama_o_4.jpg" tile3url="images/IMG_1675 Panorama_o_3.jpg" tilescale="1.006369426751592" tile2url="images/IMG_1675 Panorama_o_2.jpg" tile1url="images/IMG_1675 Panorama_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="机器人表演" target="" pan="151.34" skinid="" url="" id="F02S02-P01" tilt="-14.4521"/>
+      <hotspot title="机器人世界2" target="" pan="124.886" skinid="" url="{node3}" id="F02S02-S03" tilt="-0.07495549999999999"/>
+      <hotspot title="会做操的机器人" target="" pan="11.0528" skinid="" url="" id="F02S02-P02" tilt="-10.458"/>
+      <hotspot title="机器人世界入口" target="" pan="-86.5904" skinid="" url="" id="F02S02-S00" tilt="-1.12907"/>
+      <hotspot title="机器人下棋" target="" pan="-149.454" skinid="" url="" id="F02S02-P03" tilt="1.8153"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/IMG_1552 Panorama_o_0.jpg" prev5url="images/IMG_1552 Panorama_o_preview_5.jpg" prev4url="images/IMG_1552 Panorama_o_preview_4.jpg" prev3url="images/IMG_1552 Panorama_o_preview_3.jpg" prev2url="images/IMG_1552 Panorama_o_preview_2.jpg" prev1url="images/IMG_1552 Panorama_o_preview_1.jpg" prev0url="images/IMG_1552 Panorama_o_preview_0.jpg" tile5url="images/IMG_1552 Panorama_o_5.jpg" tilesize="1570" tile4url="images/IMG_1552 Panorama_o_4.jpg" tile3url="images/IMG_1552 Panorama_o_3.jpg" tilescale="1.006369426751592" tile2url="images/IMG_1552 Panorama_o_2.jpg" tile1url="images/IMG_1552 Panorama_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="机器人世界1" target="" pan="-164.044" skinid="" url="{node2}" id="F02S03-S02" tilt="-2.09667"/>
+      <hotspot title="机器人剧场" target="" pan="-96.0026" skinid="" url="" id="F02S03-P04" tilt="-0.744882"/>
+      <hotspot title="机器人音乐家" target="" pan="-26.3072" skinid="" url="" id="F02S03-P03" tilt="2.51964"/>
+      <hotspot title="机器人排险" target="" pan="19.1776" skinid="" url="" id="F02S03-P02" tilt="0.133766"/>
+      <hotspot title="机器人射箭" target="" pan="107.131" skinid="" url="" id="F02S03-P01" tilt="-1.40691"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/IMG_1587 Panorama_o_0.jpg" prev5url="images/IMG_1587 Panorama_o_preview_5.jpg" prev4url="images/IMG_1587 Panorama_o_preview_4.jpg" prev3url="images/IMG_1587 Panorama_o_preview_3.jpg" prev2url="images/IMG_1587 Panorama_o_preview_2.jpg" prev1url="images/IMG_1587 Panorama_o_preview_1.jpg" prev0url="images/IMG_1587 Panorama_o_preview_0.jpg" tile5url="images/IMG_1587 Panorama_o_5.jpg" tilesize="1570" tile4url="images/IMG_1587 Panorama_o_4.jpg" tile3url="images/IMG_1587 Panorama_o_3.jpg" tilescale="1.006369426751592" tile2url="images/IMG_1587 Panorama_o_2.jpg" tile1url="images/IMG_1587 Panorama_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="机器人世界" target="" pan="55.1085" skinid="" url="{node2}" id="F02S04-S02" tilt="-2.54105"/>
+      <hotspot title="信息时代出口" target="" pan="-81.23269999999999" skinid="" url="" id="F02S04-S00" tilt="2.34912"/>
+      <hotspot title="电脑揭秘" target="" pan="-40.6757" skinid="" url="" id="F02S04-P03" tilt="1.61324"/>
+      <hotspot title="编码与解码" target="" pan="27.4211" skinid="" url="" id="F02S02-P02" tilt="-11.8055"/>
+      <hotspot title="气味识别游戏" target="" pan="87.798" skinid="" url="" id="F02S04-P01" tilt="-10.4419"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/IMG_1619 Panorama_o_0.jpg" prev5url="images/IMG_1619 Panorama_o_preview_5.jpg" prev4url="images/IMG_1619 Panorama_o_preview_4.jpg" prev3url="images/IMG_1619 Panorama_o_preview_3.jpg" prev2url="images/IMG_1619 Panorama_o_preview_2.jpg" prev1url="images/IMG_1619 Panorama_o_preview_1.jpg" prev0url="images/IMG_1619 Panorama_o_preview_0.jpg" tile5url="images/IMG_1619 Panorama_o_5.jpg" tilesize="1570" tile4url="images/IMG_1619 Panorama_o_4.jpg" tile3url="images/IMG_1619 Panorama_o_3.jpg" tilescale="1.006369426751592" tile2url="images/IMG_1619 Panorama_o_2.jpg" tile1url="images/IMG_1619 Panorama_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="信息时代1" target="" pan="5.79282" skinid="" url="{node4}" id="F02S05-S01" tilt="0.393163"/>
+      <hotspot title="地球家园入口" target="" pan="-95.6558" skinid="" url="{node1}" id="F02S05-S01" tilt="0.652506"/>
+      <hotspot title="信息时代的数字医学" target="" pan="-24.6385" skinid="" url="" id="F02S05-P03" tilt="-3.82673"/>
+      <hotspot title="模式识别技术" target="" pan="82.27119999999999" skinid="" url="" id="F02S05-P02" tilt="-4.89086"/>
+      <hotspot title="网络气象预报" target="" pan="113.616" skinid="" url="" id="F02S05-P01" tilt="-4.9985"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/IMG_1647 Panorama_o_0.jpg" prev5url="images/IMG_1647 Panorama_o_preview_5.jpg" prev4url="images/IMG_1647 Panorama_o_preview_4.jpg" prev3url="images/IMG_1647 Panorama_o_preview_3.jpg" prev2url="images/IMG_1647 Panorama_o_preview_2.jpg" prev1url="images/IMG_1647 Panorama_o_preview_1.jpg" prev0url="images/IMG_1647 Panorama_o_preview_0.jpg" tile5url="images/IMG_1647 Panorama_o_5.jpg" tilesize="1570" tile4url="images/IMG_1647 Panorama_o_4.jpg" tile3url="images/IMG_1647 Panorama_o_3.jpg" tilescale="1.006369426751592" tile2url="images/IMG_1647 Panorama_o_2.jpg" tile1url="images/IMG_1647 Panorama_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
